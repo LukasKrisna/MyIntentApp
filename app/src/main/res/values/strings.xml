@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyIntentApp</string>
+    <string name="move_activity">Pindah Activity</string>
+    <string name="move_with_data">Pindah Activity dengan data</string>
+    <string name="move_activity_with_object">Pindah Activity dengan object</string>
+    <string name="move_dial_number">Panggil</string>
+    <string name="move_with_result">Pindah Activity untuk Result</string>
+    <string name="result_from_activity">Hasil dari Activity</string>
+    <string name="this_is_moveactivity">Ciluk ba</string>
+    <string name="data_received">Data Diterima</string>
+    <string name="object_received">Object Received</string>
+    <string name="_1">Shani Indira Natio</string>
+    <string name="_2">Shania Gracia</string>
+    <string name="_3">Indah Cahya Nabilla</string>
+    <string name="_4">Nadila Cindi Wantari</string>
+    <string name="choose">Pilih</string>
+    <string name="choose_number">Pilih Oshimu sob! (satu aja jangan banyak2)</string>
+</resources>
